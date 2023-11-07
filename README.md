@@ -1,5 +1,5 @@
-# PMB
-PMB Filtering on multiple targets where the marginal data association probabilities are approximated via belief propagation, translated code from J. Williams' paper https://arxiv.org/abs/1203.2995
+# Beleif Propagation - PMB
+BP - PMB Filtering on multiple targets where the marginal data association probabilities are approximated via belief propagation, translated code from J. Williams' paper https://arxiv.org/abs/1203.2995
 
 This code has been translated using chatGPT - 3.5 from the original MATLAB scripts
 provided as ancillary files to https://arxiv.org/abs/1203.2995 by Jason L. Williams.
